@@ -9,7 +9,7 @@ couple years now&mdash;both for personal projects and shared. Github may help
 me integrate myself into its community, it also may not if I don't put in any
 effort (doesn't hurt to have an account at the very least). It hasn't been very
 long since I've switched into the computer science way-of-life but I am so far
-fascinated by its resilience and enjoy the callenge of coming up with solutions
+fascinated by its resilience and enjoy the challenge of coming up with solutions
 for unique problems.
 
 Wonderful, wonderful world. I hope that's enough of a bio to satisfy the
